@@ -23,6 +23,6 @@ body{font-family:Arial;background:#f2f4f8;margin:0}
 <div class="card"><h2>₦850k</h2><p>Fees Collected</p></div>
 </div>
 <a class="btn" href="teacher.html">View Teacher Page</a>
-<a class="btn" href="student.html">View Student Page</a>
+<a class="btn" href="student.html">View Student Page</a><a class="btn" href="general.html">📢 View General Announcements & Timetable</a>
 </body>
 </html>
