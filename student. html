@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClassHub - Student</title>
+<style>
+body{font-family:Arial;background:#f2f4f8;margin:0}
+.top{background:#0f2a5a;color:white;padding:18px;text-align:center}
+.top a{color:#f5b301;text-decoration:none}
+.card{background:white;margin:15px;padding:15px;border-radius:12px}
+table{width:100%;border-collapse:collapse}
+td,th{border:1px solid #ddd;padding:8px;text-align:left}
+th{background:#0f2a5a;color:white}
+</style>
+</head>
+<body>
+<div class="top"><h1>🎓 ClassHub - Student</h1><p>Welcome, Student</p><a href="index.html">← Logout</a></div>
+<div class="card"><h3>My Results</h3><table><tr><th>Subject</th><th>Score</th></tr><tr><td>Mathematics</td><td>85</td></tr><tr><td>English</td><td>78</td></tr><tr><td>Physics</td><td>92</td></tr></table></div>
+<div class="card"><h3>Attendance</h3><p>Present: 45 days | Absent: 2 days</p></div>
+<div class="card"><h3>Fees</h3><p>Paid: ₦50,000 | Balance: ₦10,000</p></div>
+</body>
+</html>
