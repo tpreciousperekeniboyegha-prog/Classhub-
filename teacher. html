@@ -19,3 +19,4 @@ button{background:#f5b301;border:none;font-weight:bold}
 <div class="card"><h3>Upload Result</h3><input placeholder="Student Name"><input placeholder="Score / 100"><button onclick="alert('Result Saved!')">Save Result</button></div>
 </body>
 </html>
+<a class="btn" href="general.html">📢 View General Announcements & Timetable</a>
