@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClassHub - General</title>
+<style>
+body{font-family:Arial;background:#f2f4f8;margin:0}
+.top{background:#0f2a5a;color:white;padding:18px;text-align:center}
+.top a{color:#f5b301;text-decoration:none}
+.card{background:white;margin:15px;padding:15px;border-radius:12px}
+table{width:100%;border-collapse:collapse}
+td,th{border:1px solid #ddd;padding:8px;text-align:left}
+th{background:#0f2a5a;color:white}
+.ann{background:#fff8e1;border-left:5px solid #f5b301;padding:12px;margin:10px 0;border-radius:8px}
+</style>
+</head>
+<body>
+<div class="top"><h1>🎓 ClassHub - General</h1><p>Announcements & Timetable for Everyone</p><a href="index.html">← Back to Home</a></div>
+
+<div class="card"><h3>📢 General Announcements</h3>
+<div class="ann"><b>School Resumes:</b> School resumes Monday 9th by 8am. All students must be in full uniform.</div>
+<div class="ann"><b>PTA Meeting:</b> PTA Meeting on Friday by 4pm in the School Hall.</div>
+<div class="ann"><b>Exam:</b> First Term Exam starts 23rd. Read your books!</div>
+</div>
+
+<div class="card"><h3>🗓️ General Timetable</h3>
+<table><tr><th>Day</th><th>8am</th><th>10am</th><th>12pm</th></tr>
+<tr><td>Monday</td><td>Maths</td><td>English</td><td>Physics</td></tr>
+<tr><td>Tuesday</td><td>English</td><td>Biology</td><td>Maths</td></tr>
+<tr><td>Wednesday</td><td>Chemistry</td><td>Maths</td><td>English</td></tr>
+<tr><td>Thursday</td><td>Physics</td><td>Economics</td><td>Biology</td></tr>
+<tr><td>Friday</td><td>Maths</td><td>English</td><td>Sports</td></tr>
+</table></div>
+
+<div class="card"><h3>📊 Results Update</h3><p>Results for Mathematics, English and Physics are out. Check your Student page.</p></div>
+</body>
+</html>
