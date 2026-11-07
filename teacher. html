@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClassHub - Teacher</title>
+<style>
+body{font-family:Arial;background:#f2f4f8;margin:0}
+.top{background:#0f2a5a;color:white;padding:18px;text-align:center}
+.top a{color:#f5b301;text-decoration:none}
+.card{background:white;margin:15px;padding:15px;border-radius:12px}
+input,button{width:100%;padding:11px;margin:6px 0;border-radius:8px;border:1px solid #ccc;font-size:15px}
+button{background:#f5b301;border:none;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="top"><h1>🎓 ClassHub - Teacher</h1><p>Welcome, Teacher</p><a href="index.html">← Logout</a></div>
+<div class="card"><h3>My Classes</h3><p>JSS 1 - Mathematics - 32 Students</p><p>SS 2 - Physics - 28 Students</p></div>
+<div class="card"><h3>Mark Attendance</h3><input placeholder="Student Name"><input placeholder="Present / Absent"><button onclick="alert('Saved!')">Save Attendance</button></div>
+<div class="card"><h3>Upload Result</h3><input placeholder="Student Name"><input placeholder="Score / 100"><button onclick="alert('Result Saved!')">Save Result</button></div>
+</body>
+</html>
