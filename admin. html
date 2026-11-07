@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClassHub - Admin</title>
+<style>
+body{font-family:Arial;background:#f2f4f8;margin:0}
+.top{background:#0f2a5a;color:white;padding:18px;text-align:center}
+.top a{color:#f5b301;text-decoration:none}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:15px}
+.card{background:white;padding:18px;border-radius:12px;text-align:center;box-shadow:0 2px 6px #0001}
+.card h2{font-size:28px;margin:5px 0}
+.card p{color:#666;margin:0}
+.btn{display:block;background:#0f2a5a;color:white;padding:12px;margin:12px 15px;text-align:center;border-radius:10px;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="top"><h1>🎓 ClassHub - Admin</h1><p>Welcome, Admin</p><a href="index.html">← Logout</a></div>
+<div class="grid">
+<div class="card"><h2>245</h2><p>Total Students</p></div>
+<div class="card"><h2>18</h2><p>Teachers</p></div>
+<div class="card"><h2>12</h2><p>Classes</p></div>
+<div class="card"><h2>₦850k</h2><p>Fees Collected</p></div>
+</div>
+<a class="btn" href="teacher.html">View Teacher Page</a>
+<a class="btn" href="student.html">View Student Page</a>
+</body>
+</html>
